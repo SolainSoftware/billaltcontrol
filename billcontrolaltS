@@ -1,0 +1,22 @@
+
+getgenv().rbxname = "NAMEHERE" --YOUR NAME
+getgenv().prefix = ":"
+getgenv().LPlayer = game.Players.NAMEHERE -- YOUR NAME
+getgenv().messageLL = "Bill on top" 
+--------COMANDS--------
+--bring
+--test
+--msg
+--sit/unsit
+--float/unfloat
+--reset
+--benx/unbenx
+--drop
+--say...
+--antilag
+--------TELEPORTS-------
+--bank
+--safezone
+--train
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Billlux/billaltcontrol/main/billcontrolalt"))()
