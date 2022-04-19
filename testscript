@@ -12,6 +12,7 @@ local premiunn = {
         "ShellyCline84", --wekk
 	"Ew_ronnnie",
 	"BillAlt20",
+	"KimberlyEllis57", 
 }
 
 if not table.find(premiunn, host)  then
