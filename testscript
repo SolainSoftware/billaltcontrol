@@ -10,6 +10,7 @@ local premiunn = {
         "DropBolx", 1 week
         "PIRRRATE123_0", --week
         "ShellyCline84", --wekk
+	"Ew_ronnnie",
 }
 
 if not table.find(premiunn, host)  then
