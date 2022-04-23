@@ -16,6 +16,7 @@ local premiunn = {
 	"4ghxsted",
 	"Rainbowunicorn0818",
 	"Wowoeiueeiririe",
+	"callmex_YT",
 }
 
 if not table.find(premiunn, host)  then
