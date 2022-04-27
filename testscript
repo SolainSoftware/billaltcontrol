@@ -1,25 +1,5 @@
 local premiunn = {
-	"BillAlts1",
-        "MeganMelendez8",
-        "dydlort",
-        "asroie24",
-        "jorge10060",
-        "yeetisthewaytolife",
-        "spikermatestrasher",
-        "joyus04141", --1 wekk
-        "DropBolx", --1 week
-        "PIRRRATE123_0", --week
-        "ShellyCline84", --wekk
-	"Ew_ronnnie",
-	"BillAlt20",
-	"KimberlyEllis57", 
-	"4ghxsted",
-	"Rainbowunicorn0818",
-	"Wowoeiueeiririe",
-	"Callmex_YT",
-	"KerryWebb18",
-	"domyexam",
-	"DoMyExam",
+	"KimberlyEllis57",
 }
 
 if not table.find(premiunn, host)  then
