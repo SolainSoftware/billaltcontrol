@@ -1,8 +1,11 @@
 local premiunn = {
-	"KimberlyEllis57",
-        "Jorge10060",
-        "MeganMelendez8",
-	"Ew_ronnnie",
+	"KimberlyEllis57", --[lifetime]
+        "Jorge10060", --[lifetime]
+        "MeganMelendez8", --[lifetime]
+	"Ew_ronnnie", --[lifetime]
+	"4ghxsted", --[lifetime]
+	"DoMyExam", --[lifetime]
+	"PIRRRATE123_0", --[lifetime]
 }
 
 if not table.find(premiunn, host)  then
