@@ -8,7 +8,8 @@ local premiunn = {
 	"PIRRRATE123_0", --[lifetime]
 	"Wowoeiueeiririe", --[lifetime]
 	"Ew_ronnnie", --[lifetime]
-	"RobertWilkerson55", --[2 weeks]
+	"RobertWilkerson55", ..
+	"CarlosLarsen39", --[2 weeks]
 }
 
 if not table.find(premiunn, host)  then
