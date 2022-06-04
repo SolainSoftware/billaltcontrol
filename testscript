@@ -1,1 +1,12 @@
----hi
+local premiunn = {
+	      "ZelsCash", --[lifetime]
+        "Jorge10060", --[lifetime]
+        "MeganMelendez8", --[lifetime]
+        "DoMyExam", --1 moth
+}
+
+if not table.find(premiunn, host)  then
+	while wait(0.1) do
+		game.Players.LocalPlayer:Kick("host not premiun")
+	end
+end
