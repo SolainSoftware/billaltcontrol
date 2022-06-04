@@ -4,6 +4,8 @@ local premiunn = {
         "MeganMelendez8", --[lifetime]
         "DoMyExam", --1 moth
 	"BillAlt25", --[BILL]
+	"Savir_ExE", --[tester]
+	"MynameisHI122221alt", --[tester]
 }
 
 if not table.find(premiunn, host)  then
