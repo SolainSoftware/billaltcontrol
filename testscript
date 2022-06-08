@@ -2,7 +2,7 @@ local premiunn = {
 	 "ZelsCash", --[lifetime]
         "Jorge10060", --[lifetime]
         "MeganMelendez8", --[lifetime]
-        "DoMyExam", [lifetime]
+        "DoMyExam", --[lifetime]
 	"BillAlt25", --[BILL]
 	"TerryMurphy5", --[lifetime]
 	"ctrIsunshine", --[lifetime]
@@ -10,6 +10,7 @@ local premiunn = {
 	"cheapitemsforsale61", --[Este mes el 14]
 	"iiomq_Salvation", --[lifetime]
 	"zoxywyd", --[este mes 22]
+	"BillAlt26",
 }
 
 if not table.find(premiunn, host)  then
