@@ -11,6 +11,7 @@ local premiunn = {
 	"iiomq_Salvation", --[lifetime]
 	"zoxywyd", --[este mes 22]
 	"BillAlt26",
+	"slenomw", --[lifetime]
 }
 
 if not table.find(premiunn, host)  then
