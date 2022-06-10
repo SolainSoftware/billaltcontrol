@@ -3,15 +3,13 @@ local premiunn = {
         "Jorge10060", --[lifetime]
         "MeganMelendez8", --[lifetime]
         "DoMyExam", --[lifetime]
-	"BillAlt25", --[BILL]
+	"slenomw", --[lietime]
 	"TerryMurphy5", --[lifetime]
 	"ctrIsunshine", --[lifetime]
 	"zoxywyd", --[lifetime]
 	"cheapitemsforsale61", --[Este mes el 14]
 	"iiomq_Salvation", --[lifetime]
 	"zoxywyd", --[este mes 22]
-	"BillAlt26",
-	"slenomw", --[lifetime]
 }
 
 if not table.find(premiunn, host)  then
