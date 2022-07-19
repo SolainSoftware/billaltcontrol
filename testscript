@@ -10,6 +10,7 @@ local premiunn = {
 	"zoxywyd", --[lifetime]
 	"iiomq_Salvation", --[lifetime]
 	"zoxywyd", --[este mes 22]
+	"JacquelineBlake9", --[lifetime]
 }
 
 if not table.find(premiunn, host)  then
